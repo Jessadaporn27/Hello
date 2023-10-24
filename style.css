@@ -1,0 +1,45 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.content {
+    margin: 10px 0;
+    padding: 5px;
+    background-color: #fae5b6;
+    border: 5px solid #8ff8d9;
+    text-align: center;
+}
+
+.name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+ul li {
+    margin: 5px 880px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #0077cc;
+}
+
+img {
+    border: 5px solid rgb(90, 200, 214);
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
